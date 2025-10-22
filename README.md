@@ -2,9 +2,9 @@
 
 ## 📌 PROJECT OVERVIEW
 
-This project simulates a Core Banking System database designed using SQL.  
-It covers the essential entities and relationships used in modern banking systems — such as customers, accounts, transactions, and branches.  
-The main goal is to understand database design, relationships, and query development in a real-world context.
+This project simulates a **Core Banking System** database designed using SQL.  
+It includes key tables such as **Customers**, **Customer Deposits**, **Branches**, **Currencies**, and **Deposit Products** to model essential banking operations.  
+The main goal is to understand **database design**, **relationships between tables**, and **query development** in a real-world banking scenario.
 
 ## 🗂️ DATABASE STRUCTURE
 
