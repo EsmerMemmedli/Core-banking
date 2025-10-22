@@ -9,17 +9,17 @@ The main goal is to understand database design, relationships, and query develop
 ## 🗂️ DATABASE STRUCTURE
 
 **Customers**  
-**Accounts**  
-**Branches**  
-**Transactions**  
-**Loans**
+**Customer Deposits**  
+**Branches**    
+**Currencies**
+**Deposit Products**
 
 ## ⚙️ KEY FEATURES
 
-**Database normalization up to 3NF**  
-**Proper use of Primary Keys, Foreign Keys, and Constraints**  
-**Realistic banking data simulation**
+Database normalization up to 3NF
+Proper use of Primary Keys, Foreign Keys, and Constraints  
+Realistic banking data simulation
 
 ## 💻 TECHNOLOGIES USED
 
-**Oracle SQL**
+Oracle SQL
