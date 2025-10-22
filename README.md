@@ -1,19 +1,25 @@
-##🏦 Core Banking System (SQL Project)
+# 🏦 CORE BANKING SYSTEM (SQL PROJECT)
 
-##📌 Project Overview
+## 📌 PROJECT OVERVIEW
 
-This project simulates a Core Banking System database designed using SQL.
-It covers the essential entities and relationships used in modern banking systems — such as customers, accounts, transactions, and branches.
+This project simulates a Core Banking System database designed using SQL.  
+It covers the essential entities and relationships used in modern banking systems — such as customers, accounts, transactions, and branches.  
 The main goal is to understand database design, relationships, and query development in a real-world context.
 
-🗂️ Database Structure
+## 🗂️ DATABASE STRUCTURE
 
+**Customers**  
+**Accounts**  
+**Branches**  
+**Transactions**  
+**Loans**
 
-##⚙️ Key Features
+## ⚙️ KEY FEATURES
 
-Database normalization up to 3NF
-Proper use of Primary Keys, Foreign Keys, and Constraints
-Realistic banking data simulation
+**Database normalization up to 3NF**  
+**Proper use of Primary Keys, Foreign Keys, and Constraints**  
+**Realistic banking data simulation**
 
-##💻 Technologies Used
-Oracle SQL 
+## 💻 TECHNOLOGIES USED
+
+**Oracle SQL**
